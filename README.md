@@ -1,4 +1,4 @@
-[![ShortLegsFox's GitHub Banner](./assets/GitHubHeader.png)]
+[![ShortLegsFox's GitHub Banner](./assets/GithubBanner.jpg)]
 ### Hi there 👋
 
 <!--
