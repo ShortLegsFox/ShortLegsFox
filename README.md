@@ -3,7 +3,7 @@
 - I'm ShortLegsFox, an eager to learn student :book: <br />
 - I don't have any personal project here for the moment :sleeping: <br />
 
-[](https://img.shields.io/badge/-C%2FC%2B%2B-blue)
+![](https://img.shields.io/badge/-C%2FC%2B%2B-blue)
 
 <details>
 <summary>More Skills</summary>
