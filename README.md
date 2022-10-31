@@ -1,7 +1,8 @@
 ![ShortLegsFox's GitHub Banner](./assets/GithubBannerv2.jpg)
 ### Hi there 👋
-I'm ShortLegsFox, an eager to learn student :book: 
-I don't have any personal project here for the moment.
+- I'm ShortLegsFox, an eager to learn student :book: <br />
+- I don't have any personal project here for the moment :sleeping: <br />
+- 
 
 
 <!--
