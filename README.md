@@ -1,4 +1,4 @@
-![ShortLegsFox's GitHub Banner](./assets/GithubBanner.jpg)
+![ShortLegsFox's GitHub Banner](./assets/GithubBannerv2.jpg)
 ### Hi there 👋
 I'm ShortLegsFox, an eager to learn student. 
 I don't have any personal project here for the moment.
