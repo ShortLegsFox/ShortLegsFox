@@ -3,7 +3,20 @@
 - I'm ShortLegsFox, an eager to learn student :book: <br />
 - I don't have any personal project here for the moment :sleeping: <br />
 - 
+[](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+...
 
+<details>
+<summary>More Skills</summary>
+
+[](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
+...
+</details>
 
 <!--
 **ShortLegsFox/ShortLegsFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
