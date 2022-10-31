@@ -1,7 +1,8 @@
 ![ShortLegsFox's GitHub Banner](./assets/GithubBannerv2.jpg)
 ### Hi there 👋
-I'm ShortLegsFox, an eager to learn student. 
+I'm ShortLegsFox, an eager to learn student :book: 
 I don't have any personal project here for the moment.
+
 
 <!--
 **ShortLegsFox/ShortLegsFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
