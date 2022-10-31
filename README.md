@@ -4,9 +4,6 @@
 - I don't have any personal project here for the moment :sleeping: <br />
 
 [](https://img.shields.io/badge/-C%2FC%2B%2B-blue)
-![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-...
 
 <details>
 <summary>More Skills</summary>
