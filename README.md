@@ -1,5 +1,5 @@
 ### ShortLegsFox, reporting for duty 👋
-<img src=./assets/otter-surprise.gif align="right">
+<img src=./assets/otter-surprise.gif align="right" height="300" width="250">
 
 - I'm ShortLegsFox, an eager to learn student :book: <br />
 - I don't have any personal project here for the moment :sleeping: <br />
